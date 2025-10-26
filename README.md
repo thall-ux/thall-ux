@@ -1,50 +1,21 @@
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Portfólio — Meu nome</title>
-<style>
-header{
-  display:flex;align-items:center;justify-content:space-between;gap:16px
-}
-h1{
-  margin:0;font-size:2.2rem
-}
-p.lead{
-  margin:8px 0 0;line-height:1.4
-}
-img.gif{
-  width:1200px;height:auto;border-radius:8px
-}
-.content{
-  margin-top:20px
-}
-ul.suggestions{
-  margin:0;padding-left:20px
-}
-li{
-  margin:8px 0
-}
-.note{margin-top:12px;color:#555;font-size:0.95rem}
-/* responsividade */
-@media (max-width:640px){
-.header{flex-direction:column;align-items:flex-start}
-img.gif{width:100px}
-}
-</style>
-
-<header class="header">
-<div class="title-area">
-<h1>Thallcx</h1>
-<!-- Substitua o texto abaixo pelas descrições que você deseja exibir -->
-<p class="lead">Desenvolvedor(a) full‑stack com foco em aplicações web e sistemas de aprendizado de máquina. Trabalho com Python, JavaScript e infra containerizada.
-</p>
-</div>
-
-
-<!-- GIF alinhado à direita -->
 <div>
-<img class="gif" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" alt="anime hacking gif">
+  <div>
+    <h1>Thallcx</h1>
+    <p>
+      Desenvolvedor(a) full-stack com foco em aplicações web e sistemas de aprendizado de máquina.
+      Trabalho com Python, JavaScript e infra containerizada.
+    </p>
+  </div>
+
+  <div>
+    <img
+      src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"
+      alt="anime hacking gif"
+      width="460"
+      align="right"
+    >
+  </div>
 </div>
-</header>
 
 
 <div>
