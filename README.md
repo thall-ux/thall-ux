@@ -85,7 +85,7 @@
   <!-- === MODELAGEM 3D === -->
   <h3>Modelagem 3D</h3>
   <img align="center" alt="Blender" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-  <img align="center" alt="ZBrush" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ZBrush_Logo.png">
+  <img align="center" alt="ZBrush" height="40" width="40" src="https://www.svgrepo.com/show/508998/zbrush.svg">
 
   <br><br>
 
