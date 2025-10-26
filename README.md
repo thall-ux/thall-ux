@@ -2,8 +2,7 @@
   <div>
     <h1>Thallcx</h1>
     <p>
-      Desenvolvedor(a) full-stack com foco em aplicações web e sistemas de aprendizado de máquina.
-      Trabalho com Python, JavaScript e infra containerizada.
+      Desenvolvedor full-stack com foco em aplicações web e sistemas de aprendizado de máquina.
     </p>
   </div>
 
@@ -12,7 +11,6 @@
       src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"
       alt="anime hacking gif"
       width="460"
-      align="right"
     >
   </div>
 </div>
