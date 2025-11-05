@@ -1,11 +1,5 @@
-<div>
-  <div>
-    <h1>Thallcx</h1>
-    <p>
-      Desenvolvedor full-stack com foco em aplicações web e sistemas de aprendizado de máquina.
-    </p>
-  </div>
 
+<div>
   <div>
     <img
       src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"
@@ -13,21 +7,17 @@
       width="460"
     >
   </div>
-</div>
-
-
-<div>
-    <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thall-ux&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thall-ux&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=thall-ux&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=thall-ux&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
 </div>
 <div style="display: inline_block"><br>
 
