@@ -1,23 +1,26 @@
 
-<div>
-  <div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;align-items:center;">
+  <div style="text-align:center;">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=thall-ux&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=thall-ux&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+        style="max-width:100%;height:auto;"
+      />
+    </picture>
     <img
       src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"
       alt="anime hacking gif"
-      width="460"
+      style="max-width:100%;height:auto;"
     >
   </div>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=thall-ux&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=thall-ux&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </picture>
 </div>
 <div style="display: inline_block"><br>
 
